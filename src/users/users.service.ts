@@ -34,6 +34,7 @@ export class UsersService {
 }
 
 /* 
+---Explanation---
 Injectable() tells NestJS that this is a service
 
 InjectRepository(User) and Repository(User) tells NestJS to inject the repository of the User entity
